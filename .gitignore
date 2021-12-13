@@ -50,6 +50,7 @@ build/
 !**/test/**/build
 *.iml
 !**/testData/**/*.iml
+.idea/
 .idea/remote-targets.xml
 .idea/libraries/Gradle*.xml
 .idea/libraries/Maven*.xml
